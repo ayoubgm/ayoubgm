@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ayoub Guismi</h1>
 <h3 align="center">A passionate full stack javascript developer</h3>
 <br/>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=gayoub)](https://github.com/mohouyizme/1337-readme)
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm" alt="ayoubgm" /></a>
 </p>
