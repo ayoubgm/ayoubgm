@@ -6,6 +6,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 <a href="https://badges.pufler.dev">
-  <img align="center" src="https://badges.pufler.dev/visits/ayoubgm/ayoubgm?style=plastic&label=Views&color=6252C2" />
+  <img align="center" src="https://badges.pufler.dev/visits/ayoubgm/git-badges" />
 </a>
