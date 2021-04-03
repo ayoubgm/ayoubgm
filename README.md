@@ -3,9 +3,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </a>
-<a href="https://github.com/ayoubgm">
-  <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
-</a>
+
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical)](https://github.com/ayoubgm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
