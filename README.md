@@ -5,13 +5,10 @@
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm" alt="ayoubgm" /></a>
 </p>
 <br/>
-<div style="text-align: center; width: 100%">
+<p align="center">
 	<img align="cneter" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=gayoub" />
-</div>
-<br/>
-<a href="https://github.com/ayoubgm">
-   <img align="cneter" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
-</a>
+	<img align="cneter" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
+</p>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="cneter" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
