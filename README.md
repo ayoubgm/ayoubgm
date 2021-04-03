@@ -6,4 +6,10 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Years Badge](https://badges.pufler.dev/years/ayoubgm)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/gayoub/matcha)](https://badges.pufler.dev)
+## Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/VScode-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Github-181717?logo=GitHub&labelColor=181717&logoColor=ffffff" />
+</p>
+
+[![Years Badge](https://badges.pufler.dev/years/ayoubgm)](https://badges.pufler.dev)
