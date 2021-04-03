@@ -6,7 +6,7 @@
 </p>
 <br/>
 <a href="https://github.com/ayoubgm">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,7 +14,7 @@
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
