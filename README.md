@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm Ayoub Guismi</h1>
 <h3 align="center">A passionate full stack javascript developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm" alt="ayoubgm" /></a> </p>
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm" alt="ayoubgm" /></a>
+</p>
 
 <a href="https://github.com/ayoubgm">
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </a>
@@ -14,10 +15,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast" />
 </a>
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
