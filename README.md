@@ -10,6 +10,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&theme=tokyonight)
+
 ## Key Skills
 <p>
   💬 C, C#, Html, CSS, MySQL, ASP.NET, Python <br>
