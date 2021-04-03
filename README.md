@@ -6,6 +6,19 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+## Key Skills
+<p>
+  💬 C, C#, Html, CSS, MySQL, ASP.NET, Python <br>
+  📖 JavaScript / Node / Express / MongoDB / ReactJS
+  <!--
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML5-★★★★☆-000000?logo=HTML5&labelColor=e34f26&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-★★★☆☆-000000?logo=CSS3&labelColor=1572b6&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-★★☆☆☆-000000?logo=JavaScript&labelColor=f7df1e&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-★★★☆☆-000000?logo=Python&labelColor=3776ab&logoColor=ffffff" />
+  -->
+</p>
+
 ## Tools I Use
 <p>
   <img src="https://img.shields.io/badge/VScode-007acc?logo=Visual-Studio-Code&labelColor=007acc&logoColor=ffffff" />
