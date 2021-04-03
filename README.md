@@ -10,11 +10,11 @@
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
