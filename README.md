@@ -23,4 +23,3 @@
 </p>
 
 [![Years Badge](https://badges.pufler.dev/years/ayoubgm)](https://badges.pufler.dev)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ayoubgm.ayoubgm)
