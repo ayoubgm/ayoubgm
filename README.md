@@ -5,10 +5,8 @@
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm" alt="ayoubgm" /></a>
 </p>
 <br/>
-<div style="text-align:center; width: 100%">
-	<a href="https://github.com/mohouyizme/1337-readme">
-	   <img align="cneter" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=gayoub" />
-	</a>
+<div style="text-align: center; width: 100%">
+	<img align="cneter" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=gayoub" />
 </div>
 <br/>
 <a href="https://github.com/ayoubgm">
