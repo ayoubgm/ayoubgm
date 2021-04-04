@@ -10,7 +10,7 @@
 	<img align="cneter" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" /><br/>
 	<img align="cneter" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" /><br/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" /><br/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBrew&layout=compact&theme=highcontrast" /><br/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" /><br/>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
