@@ -7,9 +7,9 @@
 </p>
 <br/>
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast" /><br/><br/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
-</p>
+</p><br/><br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" /><br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" />
