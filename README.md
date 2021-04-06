@@ -11,4 +11,10 @@
 <p align="center">
 	<img align="cneter" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" />
+</p>
 <br/>
