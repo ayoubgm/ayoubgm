@@ -6,7 +6,7 @@
 </p>
 <br/>
 <p align="center">
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p>
 <br/>
