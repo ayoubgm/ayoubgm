@@ -7,6 +7,11 @@
 
 :pushpin:  :computer: I’m currently learning: TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/> and NestJS <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" />
 
+## 🔥 Streak stats
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
+</p>
 <!-- <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false" alt="ayoubgm" /></a>
 </p>
@@ -43,28 +48,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" />
 </p>
 <br/><br/><br/><br/>
-<h3 align="center">
-  Welcome to Jonah Lawrence's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-
-
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-<br/>
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
