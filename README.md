@@ -29,7 +29,7 @@
 </p>
 <br/>
 <p align="center">
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark)](https://git.io/streak-stats)<br/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p><br/>
 <p align="center">
