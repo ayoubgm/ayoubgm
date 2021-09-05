@@ -5,7 +5,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Full+stack+JavaScript+Developer;Always+learning+new+things+"></a>
 </p>
 
-:black_circle:  :computer: I’m currently learning: TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/> and NestJS <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" />
+:point_right: I'am a student at <a href='www.1337.ma'>1337</a> which is a part of the international 42 network, the 42 pedagogy is based on building projects from scratch and peer-review. The school helped alot to build new experiences and learn more about new stuff.
+:point_right:  :computer: I’m currently learning: TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/> and NestJS <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" />
 
 ### 🔥 Streak stats
 <p align="center">
