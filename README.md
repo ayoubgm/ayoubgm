@@ -1,19 +1,20 @@
 
-<h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>
-<br/>
+<h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Full+stack+JavaScript+Developer;Always+learning+new+things+"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Full+stack+JavaScript+Developer;Always+learning+new+things+"></a>
 </p>
 
 <p align="left">
-	:point_right: I'am a student at <a href='www.1337.ma'>1337</a> which is a part of the international 42 network, the <a href='https://42.fr/en/homepage/'>42</a> pedagogy is based on building projects from scratch and peer-review. The school helped alot to build new experiences and learn more about new stuff.
-	:point_right:  :computer: I’m currently learning: TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/> and NestJS <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" />
+	:point_right: I'am a student at <a href='www.1337.ma'>1337</a> which is a part of the international 42 network, the <a href='https://42.fr/en/homepage/'>42</a> pedagogy is based on building projects from scratch and peer-review. The school helped alot to build new experiences and learn more about new stuff.<br/>
+	:point_right: I'am a back-end JS developer, currently i am focusing on <a href='https://nestjs.com/'>NestJS</a><img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" /> and related stuff.<br/>
+	:point_right:  :computer: I’m currently learning: <a href='https://www.typescriptlang.org/'>TypeScript</a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/>.<br/>
 </p>
 
 ### 🔥 Streak stats
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p>
 
 <!-- <p align="center">
