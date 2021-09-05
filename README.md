@@ -7,10 +7,10 @@
 
 :pushpin:  :computer: I’m currently learning: TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/> and NestJS <img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" />
 
-## 🔥 Streak stats
+### 🔥 Streak stats
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p>
 <!-- <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false" alt="ayoubgm" /></a>
