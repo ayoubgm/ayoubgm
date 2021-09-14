@@ -19,22 +19,27 @@
 ### 🔥 Streak stats
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><p/>
+	
 ### 🔥 Github stats
 <p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
 </p>
+
 ### :trophy: Trophies
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false" alt="ayoubgm" /></a>
 </p>
+
 ### 🔥 Languages stats
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
 </p>
+
 ### 🔥 Wakatime stats
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" />
 </p>
+
 <p align="center">
 <div align="center">
 	<a href="https://www.typescriptlang.org/" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50" alt="TypeScript Logo"/></a>
