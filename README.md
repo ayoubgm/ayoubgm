@@ -26,8 +26,8 @@
 </p>
 
 ### :trophy: Trophies
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false?column=7" alt="ayoubgm" /></a>
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false&row=1&column=7" alt="ayoubgm" /></a>
 </p>
 
 ### 🔥 Languages stats
