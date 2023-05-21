@@ -37,7 +37,7 @@
 
 ### 🔥 Wakatime stats
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayoubgm&layout=compact&theme=highcontrast" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aguismi&layout=compact" />
 </p>
 
 <p align="center">
