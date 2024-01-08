@@ -22,10 +22,6 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false&row=1&column=7" alt="ayoubgm" /></a>
 </p>
 
-### 🔥 Streak stats
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ayoubgm&theme=neon-dark&count_private=true&include_all_commits=true&show_icons=true" /><p/>
-	
 ### 🔥 Github stats
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
@@ -34,11 +30,6 @@
 ### 🔥 Languages stats
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
-</p>
-
-### 🔥 Wakatime stats
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aguismi&layout=compact" />
 </p>
 
 <p align="center">
