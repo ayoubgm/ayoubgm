@@ -10,8 +10,8 @@
 	<p align="left">
 		<ul>
 			<li>:mortar_board: I'am a student at <a href='www.1337.ma'>1337</a> which is a part of the international 42 network, the <a href='https://42.fr/en/homepage/'>42</a> pedagogy is based on building projects from scratch and peer-review. The school helped alot to build new experiences and learn more about new stuff.</li>
-			<li>:100: I'am a back-end JS developer, currently i am focusing on <a href='https://nestjs.com/'>NestJS</a><img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" /> and related stuff.</li>
-			<li>:computer: I’m currently learning: <a href='https://www.typescriptlang.org/'>TypeScript</a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20" height="20" alt="TypeScript Logo"/>.</li>
+			<li>:100: I'am a back-end developer, currently i am focusing on <a href='https://nestjs.com/'>NestJS</a><img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" /> and related stuff.</li>
+			<li>:computer: I’m currently working as Software Engineer Develop @UM6P.</li>
 		</ul>
 	</p>
 </div>
