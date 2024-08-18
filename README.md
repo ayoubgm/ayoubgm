@@ -9,9 +9,8 @@
 	Here's some stuff about me:
 	<p align="left">
 		<ul>
-			<li>:mortar_board: I'am a student at <a href='www.1337.ma'>1337</a> which is a part of the international 42 network, the <a href='https://42.fr/en/homepage/'>42</a> pedagogy is based on building projects from scratch and peer-review. The school helped alot to build new experiences and learn more about new stuff.</li>
-			<li>:100: I'am a back-end developer, currently i am focusing on <a href='https://nestjs.com/'>NestJS</a><img src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"  width="20" height="20" alt="Nest Logo" /> and related stuff.</li>
-			<li>:computer: I’m currently working as Software Engineer Develop @UM6P.</li>
+			<li>:mortar_board: Fullstack developer and Software engineer developer at <a href='https://um6p.ma'>UM6P</a> I work with various frameworks and databases, such as ExpressJS, NestJS, NextJS, ReactJS, VueJS, Flask, MongoDB, MySQL, and Postgres, to create robust, scalable, and user-friendly applications and also writing unit, integration and E2E testing using Jest and Cypress.</li>
+			<li>:100: Currently i am focusing on <a href='#'>Python</a> and related stuff and developing my problem solving skills on HackerRank platform</li>
 		</ul>
 	</p>
 </div>
