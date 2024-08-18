@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Self-taught+Developer;Full+stack+JavaScript+Developer;Always+learning+new+things+"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0074CF&size=22&center=true&vCenter=true&width=600&lines=Software Engineer Developer;Full+stack+Developer;Always+learning+new+things+"></a>
 </p>
 
 <div>
