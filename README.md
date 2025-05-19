@@ -9,8 +9,7 @@
 	Here's some stuff about me:
 	<p align="left">
 		<ul>
-			<li>:mortar_board: Fullstack developer and Software engineer developer at <a href='https://um6p.ma'>UM6P</a> I work with various frameworks and databases, such as ExpressJS, NestJS, NextJS, ReactJS, VueJS, Flask, MongoDB, MySQL, and Postgres, to create robust, scalable, and user-friendly applications and also writing unit, integration and E2E testing using Jest and Cypress.</li>
-			<li>:100: Currently i am focusing on <a href='#'>Python</a> and related stuff and developing my problem solving skills on HackerRank platform</li>
+			<li>:mortar_board: Full Stack Developer skilled in crafting scalable, high-performance web applications. I leverage modern front-end frameworks alongside robust back-end technologies. I excel in comprehensive system architecture design, RESTful API development, and containerization using Docker and Kubernetes, all supported by rigorous testing methodologies. My strong problem-solving skills, commitment to continuous learning, and collaborative approach enable me to thrive in agile environments, where I also mentor teams through detailed code reviews and strategic technical guidance.</li>
 		</ul>
 	</p>
 </div>
