@@ -9,7 +9,7 @@
 	Here's some stuff about me:
 	<p align="left">
 		<ul>
-			<li>:mortar_board: Software developer & Full Stack Developer skilled in crafting scalable, high-performance web applications. I leverage modern front-end frameworks alongside robust back-end technologies. I excel in comprehensive system architecture design, RESTful API development, and containerization using Docker and Kubernetes, all supported by rigorous testing methodologies. My strong problem-solving skills, commitment to continuous learning, and collaborative approach enable me to thrive in agile environments, where I also mentor teams through detailed code reviews and strategic technical guidance.</li>
+			<li>:mortar_board: Software developer skilled in crafting scalable, high-performance web applications. I leverage modern front-end frameworks alongside robust back-end technologies. I excel in comprehensive system architecture design, RESTful API development, and containerization using Docker and Kubernetes, all supported by rigorous testing methodologies. My strong problem-solving skills, commitment to continuous learning, and collaborative approach enable me to thrive in agile environments, where I also mentor teams through detailed code reviews and strategic technical guidance.</li>
 		</ul>
 	</p>
 </div>
