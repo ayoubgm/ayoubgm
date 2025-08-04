@@ -21,14 +21,7 @@
 </p>
 
 ### 🔥 Github stats
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubgm&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast" />
-</p>
-
-### 🔥 Languages stats
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&layout=compact&theme=highcontrast" />
-</p>
+![ayoubgm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
 <div align="center">
