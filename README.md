@@ -10,20 +10,9 @@
 </div>
 <a href="https://wakatime.com/@ff77a172-c63a-4219-86e2-576ec326863e"><img src="https://wakatime.com/badge/user/ff77a172-c63a-4219-86e2-576ec326863e.svg" alt="Total time coded since Feb 29 2020" /></a>
 
-### :trophy: Trophies
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=juicyfresh&no-frame=false&row=1&column=7" alt="ayoubgm" /></a>
-</p>
-
 ### 🔥 Github stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayoubgm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-</p>
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubgm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">
@@ -48,4 +37,10 @@
 	<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a>
 </div>
 </p>
+
+<div align="center">
+    Made with ❤️ by <a href="https://ayoubguismi.dev" target="_blank">Ayoub Guismi</a>
+</div>
+
+![](/assets/images/horizontal-divider-gradient.gif)
 <br/>
