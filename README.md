@@ -8,6 +8,8 @@
 
 </div>
 
+![](/assets/horizontal-divider-gradient.gif)
+
 <h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
 <div>
 	Here's some stuff about me:
@@ -46,6 +48,12 @@
 	<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a>
 </div>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+</picture>
 
 <div align="center">
     Made with ❤️ by <a href="https://ayoubguismi.dev" target="_blank">Ayoub Guismi</a>
