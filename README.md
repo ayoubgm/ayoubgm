@@ -50,11 +50,11 @@
 </p>
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <div align="center">
     Made with ❤️ by <a href="https://ayoubguismi.dev" target="_blank">Ayoub Guismi</a>
