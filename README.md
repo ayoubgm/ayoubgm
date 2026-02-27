@@ -1,3 +1,12 @@
+![](/assets/images/horizontal-divider-gradient.gif)
+
+<div align="center">
+  
+![Banner](/assets/banner.jpg)
+
+![](https://komarev.com/ghpvc/?username=ayoubgm) [![wakatime](https://wakatime.com/badge/user/ff77a172-c63a-4219-86e2-576ec326863e.svg)](https://wakatime.com/@ff77a172-c63a-4219-86e2-576ec326863e) ![Followers](https://img.shields.io/github/followers/ayoubgm?label=Followers) ![Stars](https://img.shields.io/github/stars/ayoubgm?label=Stars)
+
+</div>
 
 <h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
 <div>
