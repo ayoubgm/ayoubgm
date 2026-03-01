@@ -1,5 +1,7 @@
 ![](/assets/horizontal-divider-gradient.gif)
 
+<h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
+
 <div align="center">
   
 ![Banner](/assets/banner.jpg)
@@ -10,7 +12,6 @@
 
 ![](/assets/horizontal-divider-gradient.gif)
 
-<h3 align="center">Welcome to my profile  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3><br/>
 <div>
 	Here's some stuff about me:
 	<p align="left">
