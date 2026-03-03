@@ -61,5 +61,7 @@
 <div align="center">
     Made with ❤️ by <a href="https://ayoubguismi.dev" target="_blank">Ayoub Guismi</a>
 </div>
+
 ![](/assets/horizontal-divider-gradient.gif)
+</br>
 
