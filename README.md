@@ -57,6 +57,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
 </picture> -->
 
+![](/assets/horizontal-divider-gradient.gif)
+
 <div align="center">
     Made with ❤️ by <a href="https://ayoubguismi.dev" target="_blank">Ayoub Guismi</a>
 </div>
