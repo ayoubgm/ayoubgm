@@ -20,7 +20,6 @@
 		</ul>
 	</p>
 </div>
-<a href="https://wakatime.com/@ff77a172-c63a-4219-86e2-576ec326863e"><img src="https://wakatime.com/badge/user/ff77a172-c63a-4219-86e2-576ec326863e.svg" alt="Total time coded since Feb 29 2020" /></a>
 
 ### 🔥 Github stats
 <p align="center">
