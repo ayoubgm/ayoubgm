@@ -6,6 +6,8 @@
   
 ![Banner](/assets/banner.jpg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayoubgm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=ayoubgm) [![wakatime](https://wakatime.com/badge/user/ff77a172-c63a-4219-86e2-576ec326863e.svg)](https://wakatime.com/@ff77a172-c63a-4219-86e2-576ec326863e) ![Followers](https://img.shields.io/github/followers/ayoubgm?label=Followers) ![Stars](https://img.shields.io/github/stars/ayoubgm?label=Stars)
 
 </div>
