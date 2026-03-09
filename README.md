@@ -17,7 +17,6 @@
 	<p align="left">
 		<ul>
 			<li>:mortar_board: Software developer skilled in crafting scalable, high-performance web applications. I leverage modern front-end frameworks alongside robust back-end technologies. I excel in comprehensive system architecture design, RESTful API development, and containerization using Docker and Kubernetes, all supported by rigorous testing methodologies.</li>
-			<li>:mortar_board: My strong problem-solving skills, commitment to continuous learning, and collaborative approach enable me to thrive in agile environments</li>
 		</ul>
 	</p>
 </div>
