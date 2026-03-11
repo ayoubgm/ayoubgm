@@ -26,6 +26,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubgm&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 🔥 Technical Skills
 <p align="center">
 <div align="center">
 	<a href="https://www.typescriptlang.org/" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50" alt="TypeScript Logo"/></a>
